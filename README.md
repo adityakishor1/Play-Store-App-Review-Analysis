@@ -17,7 +17,7 @@ This analysis can greatly aid app developers and product teams in:
 - Enhancing the **overall user experience** by focusing on feedback-driven improvements.
 
 **Technologies Used**:
-- **Python** for data handling and scripting
+- **Python** for data handling and scripting.
 - **Pandas** for data manipulation.
 - **Matplotlib** for creating insightful visualizations.
 - **Natural Language Processing (NLP)** for analyzing user reviews.
